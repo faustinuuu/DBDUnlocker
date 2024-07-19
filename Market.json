@@ -2,10 +2,10 @@
   "Code": 200,
   "Message": "OK",
   "Data": {
-    "PlayerId": "MarketUpdater V2",
-    "Updated": "06/27/2024",
-    "Comment": "Market created by MarketUpdater V2",
-    "DeveloperDiscord": "@bhvr",
+    "PlayerId": "",
+    "Updated": "",
+    "Comment": "",
+    "DeveloperDiscord": "",
     "Inventory": [
       {
         "lastUpdatedAt": 1719735149,
